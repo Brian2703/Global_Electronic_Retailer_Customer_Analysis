@@ -63,8 +63,7 @@
 ## Tools and Technologies
 - **SQL:** For data extraction and transformation.
 - **Power BI:** For interactive dashboards and visualizations.
-- **Python:** For advanced data preprocessing and analysis.
-- **Excel:** For initial data exploration and validation.
+
 
 ---
 
@@ -76,6 +75,16 @@
 3. Set up SQL Server or any relational database.
 
 ### Steps:
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-repo/customer-analysis
+Or click on the link: 
+
+![image](https://github.com/user-attachments/assets/3fe37bdc-97ea-44d8-861f-a044bebced56)
+
+![image](https://github.com/user-attachments/assets/3334256a-5151-4565-805f-0dbd6b7f75f6)
+
+![image](https://github.com/user-attachments/assets/7ace648a-4d56-462c-a93b-d38eaa2ea605)
+
+
+
