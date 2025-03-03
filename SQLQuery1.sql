@@ -167,12 +167,7 @@ SELECT
 FROM Retention
 ORDER BY CohortMonth, OrderMonth;
 
-
-
-
-
-
-
+-------------------------------- 3. COHORT SALE ANALYSIS-----------------------------------------------
 
 WITH FirstPurchase AS ( 
     SELECT 
