@@ -80,11 +80,8 @@
 
 ### Prerequisites:
 1. Install **Power BI Desktop**.
-2. Ensure Python (with libraries like `pandas`, `numpy`, `matplotlib`) is installed.
 3. Set up SQL Server or any relational database.
 
 ### Steps:
-Clone the repository:
-
-Or click on the link
+Clone the repository and open PowerBI file. SQL output is already stored in Dataset folder
 
